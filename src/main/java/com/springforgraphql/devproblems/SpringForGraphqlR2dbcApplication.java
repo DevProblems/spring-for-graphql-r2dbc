@@ -30,7 +30,7 @@ import java.util.Map;
 import java.util.function.Function;
 
 /**
- * @author Dev Problems(Sarang Kumar A Tak)
+ * @author Dev Problems(A Sarang Kumar Tak)
  * @YoutubeChannel https://www.youtube.com/channel/UCVno4tMHEXietE3aUTodaZQ
  */
 @SpringBootApplication
